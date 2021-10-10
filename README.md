@@ -20,9 +20,13 @@ Backend: <br>
 
 ##
 
-   <a href="https://github.com/JunioBatista">
+  
+ <div>
+ <a href="https://github.com/JunioBatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunioBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
   </div></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioBatista&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
   
   ##
   

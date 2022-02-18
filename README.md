@@ -5,7 +5,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Amo me conectar com diferentes pessoas. Então, se quiser me dar um  <b>"Oi"</b>, fique a vontade!</b> 😊</em>
+
 <br/><br/>
 #### Minhas redes Sociais:
 <div> 
@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/junio-batista-da-silva-3bb894158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://app.slack.com/client/TLAVDH7C2/CLNBUP09W/user_profile/U02CQCJDAHW"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/juniinhorx" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-<!--       <a href="https://www.instagram.com/bs_juniorrx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  -->
-</div>
+<!--       <a href="https://www.instagram.com/bs_juniorrx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  --></div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Amo me conectar com diferentes pessoas. Então, se quiser me dar um  <b>"Oi"</b> fique à vontade!</b> 😊</em>
 ##
   
   ![Snake animation](https://github.com/JunioBatista/JunioBatista/blob/output/github-contribution-grid-snake.svg)

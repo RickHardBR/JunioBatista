@@ -1,14 +1,12 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ooi,  Eu sou o Junio! </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiee,  Eu sou o Junio! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Estudante de Desenvolvimento Web FullStack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-Venho de um background em Administração, Logística e Atendimento ao cliente.<br/> 
-Sempre fui fascinado em conhecer e consumir tecnologias, <br/>
-daí que decidi no auge dos meus 28 anos, fazer essa transição de carreira <br/>
-e me tornar um desenvover <b>Web Full  Stack</b>
+<p><em>Tenho 28 anos, moro em Betim-MG e sou estudante de desenvolvimento web FullStack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p><br/><br/><br/>
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Amo me conectar com diferentes pessoas. Então, se quiser me dar um  <b>"Oi"</b>, fique a vontade!</b> 😊</em>
-
+<br/><br/>
 #### Minhas redes Sociais:
 <div> 
   <a href = "mailto:juniorjob21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,11 +49,11 @@ const JunioBatista = {
 }
 
 ```
-## Meu GitStats
-
+<div align="center">
   <a href="https://github.com/JunioBatista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunioBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunioBatista&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunioBatista&layout=compact&langs_count=7&theme=highcontrast"/>
+    </div>
  
 
  

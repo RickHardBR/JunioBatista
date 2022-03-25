@@ -24,33 +24,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> O que estudo...  
 
-```javascript
-
-const JunioBatista = {
-
-  🏢: (Escola) {
-    Labenu: 'https://www.labenu.com.br/'
-  },
-  💻: (tools and linguagens) {
-    VisualStudioCode: 'https://code.visualstudio.com/',
-    HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
-    CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
-    Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
-    ReactJS: 'https://pt-br.reactjs.org/',
-    Slack: 'https://www.slack.com',
-    Git: 'https://git-scm.com/'
-  🛠️: (projetos) {
-    Labedex: 'https://github.com/future4code/Joy-pokedex1',
-    Belorizontinder: 'https://github.com/future4code/Junio-Silva/pull/32',
-    SpaceLabex: 'https://github.com/future4code/Junio-Silva/pull/33',
-    SimpleLandingPage: 'https://github.com/JunioBatista/Landing-Page',
-  }
- 📧: (CursoRepo)  {
-    value: 'https://github.com/future4code/Junio-Silva/',
-  }
-}
-
-```
 <div align="center">
   <a href="https://github.com/JunioBatista">
   <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=JunioBatista&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

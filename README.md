@@ -1,7 +1,7 @@
 <h2>Oi,  Eu sou o Junio! / Hi, My name is Junio</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Sou desenvolvedor web FullStack  /  Im a Web Developer Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p></em> <br/>
+<p><em>Sou desenvolvedor web FullStack  /  Im a Web Developer Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p></em>
  
 
 ### Tecnologias que ultilizo.

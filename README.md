@@ -4,7 +4,7 @@
 <p><em>Sou desenvolvedor web FullStack  /  Im a Web Developer Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p></em>
  
 
-### Tecnologias que ultilizo.
+### Tecnologias que utilizo.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
